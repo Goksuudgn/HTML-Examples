@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Öğreniyorum</title>
+</head>
+<body>
+ <table border="1">
+    <tr>
+        <th  rowspan="3" >Bilgi</th>
+        <th  colspan="3" >Bilgiler</th>
+    </tr>
+    <tr>
+        <th>İSİM</th>
+        <th>İL</th>
+        <th>BÖLÜM</th>
+    
+    </tr>
+    <tr>
+        <td>Acunmedya</td>
+        <td>İstanbul</td>
+        <td>Yazılım</td>
+    
+    </tr>
+ </table>
+    
+</body>
+</html>

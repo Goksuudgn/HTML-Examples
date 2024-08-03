@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Öğreniyorum</title>
+</head>
+<body>
+    <ol>
+   <li>SICAK İÇECEKLER
+   <ol type="I">
+       <li>ÇAY</li>
+       <li>KAHVE
+        <ol type="a">
+               <li>TÜRK KAHVESİ</li>
+               <li>NESCAFE</li>
+            
+        </ol>
+    </li>
+    <li>SICAK ÇİKOLATA</li>
+   </ol> 
+   </l>
+   <li>SOĞUK İÇECEKLER
+   <ol type="1">
+    <li>MEYVE SULARI
+<ul>
+    <li>VİŞNE</li>
+    <li>ŞEFTALİ</li>
+    <li>KAYISI</li>
+    <li>ELMA</li>
+</ul>
+    </li>
+    <li>LİMONATA</li>
+   </ol>
+   </li>
+</ol>
+    
+</body>
+</html>

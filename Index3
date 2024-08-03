@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Öğreniyorum</title>
+    <!--  .class ------ #id  -->
+    <style>
+        .divOzellik{
+            width:100%;
+            height: 500px;
+            background-color: antiquewhite;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<div class="divOzellik">
+
+    <h3>Acunmedya Akademi</h3>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae, explicabo.</p>
+</div>
+
+    
+</body>
+</html>

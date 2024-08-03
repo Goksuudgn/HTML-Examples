@@ -1,0 +1,23 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Örnek Html Dosyam</title>
+</head>
+<body>
+<h1>Örnek 2 sayfasının Başlığı</h1>
+<h2>Sayfanın Başlığı</h2>
+<h3>Sayfanın Başlığı</h3>
+<h4>Sayfanın Başlığı</h4>
+<h5>Sayfanın Başlığı</h5>
+<h6>Sayfanın Başlığı</h6>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, nisi assumenda nostrum quidem culpa quas distinctio labore, quae porro aliquam accusantium magnam sit velit impedit provident omnis voluptatibus voluptatum facilis.</p>
+
+<p>lorem, ipsum.</p>
+
+<a href="ornek.html">Sayfa 1'e git</a>
+
+</body>
+</html>

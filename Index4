@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Öğreniyorum</title>
+</head>
+
+<!--    Form        
+
+<input type="text">
+<input type="password">
+<input type="email">
+<input type="checkbox">
+<input type="radio"> namei aynı yazarsak seçilebilir oluyor ayrıca cheched="true" eklersek seçili gelir
+<input type="file">
+<input type="reset">
+<input type="submit">
+<textarea id ="w3review" name="w3review" rows="4" cols="50">
+<select><option>
+-->
+<body>
+
+    <form>
+      Adınız :  <input type="text" placeholder="İsminiz"> <br>
+      Soyadınız : <input type="text" placeholder="Soyadınız"><br>
+      <input type="password" placeholder="şifre"><br>
+      <input type="email" placeholder="email"><br>
+      kitap okumak <input type="checkbox" id="kitapCheckbox"><br>
+      kadın <input type="radio" name="cinsiyet"><br> 
+      erkek <input type="radio" name="cinsiyet"><br>
+      <input type="file" ><br> 
+      <input type="reset" value="Sil"><br>
+      <input type="submit" value="Gönder"><br>
+
+
+
+      <textarea 
+      name="mesajInput" id="mesajAlani" cols="60" rows="30">
+      </textarea> <br>
+      ders seçiniz: 
+     <select>
+        
+        <option value="Matematik">Matematik</option> 
+        <option value="Türkçe">Türkçe</option> 
+        <option value="Müzik">Müzik</option>   
+     </select>
+    </form>
+    
+</body>
+</html>
